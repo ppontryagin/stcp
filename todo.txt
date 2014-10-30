@@ -1,0 +1,5 @@
+layer3 emulator
+
++ 1. Add delays(using Threads)
++ 2. Add corruption
+3. Add packet loss
